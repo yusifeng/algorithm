@@ -19,7 +19,6 @@
         })
 
     })
-    console.log('result', result)
     return result
 
 
